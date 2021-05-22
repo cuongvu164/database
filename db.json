@@ -1,0 +1,18 @@
+{
+  "products":[
+    {
+    "id": 1,
+    "title": "Áo"
+    },
+    {
+      "id": 2,
+      "title": "Quần"      
+    }
+  ],
+  "customer":[
+    {
+      "email": "cuongmk288@gmail.com",
+      "password": "test"
+    }
+  ]
+}
